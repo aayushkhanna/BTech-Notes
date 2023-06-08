@@ -1,0 +1,15 @@
+1. class definition is not terminated by semicolon(;)
+2. members of class are not private by default
+3. we can make members private using private keyword.
+4. objects are created at runtime using new keyword only.
+5. we can write any number of classes in one Java file. Compiler will create byte code (class files) for all classes.
+6. We can only execute class file which has main method of following syntax
+public static void main(String s[])
+{
+  
+}
+
+7. class data members (numeric) are by default initialized to zero. We can also initialize data memebrs at the time of their declaration.
+
+8. Every class has a buil-in hidden default constructor which can only be called when there is no explicit constructor created in the class.
+

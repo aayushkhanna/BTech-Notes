@@ -1,0 +1,14 @@
+Abstract
+----------
+
+1) Abstract function is a function without body.
+
+2) Any class which has atleast one abstract function, must be declared abstract.
+
+3) Objects of abstract class cannot be created.
+
+4) Abstract class may be inherited by other classes.
+
+5) Sub class of abstract class MUST overide ALL abstract functions declared in that abstract class otherwise that sub class will also become abstract.
+
+6) Abstract class is used to share common features among its subclasses. OR Abstract class is used to create STANDARDs for its subclasses.

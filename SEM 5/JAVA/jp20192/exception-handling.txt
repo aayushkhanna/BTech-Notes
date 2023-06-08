@@ -1,0 +1,18 @@
+Exception Handling
+------------------
+
+When some abnormality occurs while execution, JVM throws exception.
+Exception is run time error.
+
+Problems arising with exception is as follows:
+1. Program terminates immidiately when exception occurs
+2. User friendly messages are not generated when exception occurs
+
+
+Solution to above problem is to handle exception. Process to handle exception is known as Exception Handling.
+
+To handle exception, we put code (where exception may occur)
+in try block. Every try block is followed by catch block.
+
+When some exception occurs, an object of respective exception sub class is thrown by JVM. In try block when exception is thrown, control jumps to respective catch block based the exception occurs. This prevents termination of program
+

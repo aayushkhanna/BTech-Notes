@@ -1,0 +1,27 @@
+Applet
+------
+Applet is a Java program which can be embeded in a web page and run on any Java enabled browsers.
+
+Applet can be tested in a utility known as appletviewer.
+----------------------------------------------------------------------
+
+To create applet, we need to create a public class which will import java.applet package and inherit Applet class.
+
+public class abc extends Applet
+{
+
+}
+
+Applet has following life cycle:
+
+1. initialization
+2. start
+3. paint
+4. stop
+6. destroy
+
+We cannot use System.out.print/println to draw anything on Applet.
+
+
+
+ 

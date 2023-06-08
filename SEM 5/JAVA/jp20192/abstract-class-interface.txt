@@ -1,0 +1,39 @@
+data types/operators
+control statements
+arrays
+objects/classes/constructors/function overloading
+passing and returning object as reference from function
+static
+this
+inheritance
+constructors in inheritance
+super keyword
+super class reference to sub class object
+final keyword
+abstract class
+interface
+-------------------------------------------------
+
+abstract class			interface
+--------------			---------
+multiple inheritance not	multiple inheritance possible
+possible
+
+data members may or may not	data members will always be final
+be final 	
+
+all function members may or 	all function members are always 
+may not be abstract 		abstract
+
+can have constructor		cannot have constructor
+
+while overriding, public 	while overriding, public keyword
+keyword need not to be used	is used
+
+inherited by class using	inherited by class using 
+extends keyword			implements keyword
+
+abstract class may inherit	interface cannot inherit a class but
+another class			may inherit another interface
+
+

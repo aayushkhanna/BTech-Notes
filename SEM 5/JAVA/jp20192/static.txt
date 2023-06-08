@@ -1,0 +1,9 @@
+
+1) Static Data Members are shared among all the objects of the class.
+
+2) Static function/block can not access non-static members directly. It can only access static members and its local variables.
+
+3) Static members can be called outside the class without reference of object. They can be called with the name of that class.
+
+4) Static block is automatically executed FIRST and only Once.
+

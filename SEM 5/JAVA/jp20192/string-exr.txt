@@ -1,0 +1,6 @@
+1. Check whether a string is numeric string.
+2. Check whether a string is valid pincode or not
+   e.g. 143001
+3. Check whether a string is valid name or not
+   e.g. rajiv kumar, r.k.sharma, sharma r.k.
+4. check whether a string is valid email or not

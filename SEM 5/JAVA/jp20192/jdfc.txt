@@ -1,0 +1,22 @@
+JDBC (Java DataBase Connectivity) is an API which interfaces Java programs with any database.
+
+Steps of Database Connectivity
+------------------------------
+1. Establish connection with database (M.Imp.)
+2. Execute SQL query using connection
+3. Close connection
+
+
+How to establish connection
+---------------------------
+1. Initialize database driver
+2. Create connection string. Connection string is special formatted string which has information about database.
+3. Open connection to database with connection string and driver.
+------------------------------------------------------------------
+
+JDBC package
+java.sql package
+
+Oracle driver path
+C:\oraclexe\app\oracle\product\10.2.0\server\jdbc\lib
+

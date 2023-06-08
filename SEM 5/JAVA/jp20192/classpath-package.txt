@@ -1,0 +1,37 @@
+classpath
+---------
+
+classpath is an environmental variable which informs JVM about path of the classes.
+By default, if classpath is not set then current folder is the classpath.
+
+Classpath can be set as follows
+
+set classpath=e:\xyz
+
+Multiple classpaths canb be set by seperating with semicolon(;)
+
+e.g.
+set classpath=e:\xyz;e:\xyz1;
+
+To set classpath to current folder, we set to dot (.)
+e.g.
+set classpath=.
+
+-----------------------------------------------------------------
+
+Package
+-------
+package is used to classify or group class files.
+
+class can be made member of package by adding following following statement on the top of Java file
+
+package p1;
+
+if class is the member of any package then it can only be accessed with package name as follows:
+
+p1.abc
+
+In this case, JVM will first try to find a folder with same name as that of package at classpath and then will find class file in that folder.
+
+package name is usually same as the folder name.
+

@@ -1,0 +1,12 @@
+1-D array
+
+1. Print largest element of array
+2. Reverse an array
+3. Print array in reverse order
+4. Print averyage of prime numbers stored in the array
+
+2-D Array
+
+1. Transpose a square matrix
+2. Sum of diagonal elements of square matrix
+3. Sum of each row of matrix

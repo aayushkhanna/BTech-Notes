@@ -1,0 +1,12 @@
+Interface
+---------
+
+1) Interface is an essentially abstract class whose all data members are by default "final" and all function members are by default "abstract".
+
+2) Inferface can be inherited by a class using "implements" keyword.
+
+3) A class can implement ( inherit ) multiple interfaces. So multiple inheritance is supported in JAVA using interfaces only.
+
+4) Interface cannot have constructors.
+
+5) Interface may inherit another interface using "extends" keyword.
